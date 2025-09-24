@@ -93,6 +93,7 @@ I can hear the different soundtracks emitted by the VESS with Audacity by going 
 
 <img width="700" height="230" alt="Audacity" src="https://github.com/user-attachments/assets/b3710b9e-4010-4f11-8438-653b70597a88" />
 
+[VESS_ORIGINAL_EV6.wav](https://github.com/user-attachments/files/22508095/VESS_ORIGINAL_EV6.wav)
 
 
 I will now be able to modify these different sounds by replacing them with the ASD (Active Sound Design) samples, which I find more pleasant, and reduce the volume of the reverse beep
