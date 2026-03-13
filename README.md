@@ -99,4 +99,6 @@ I can hear the different soundtracks emitted by the VESS with Audacity by going 
 I will now be able to modify these different sounds by replacing them with the ASD (Active Sound Design) samples, which I find more pleasant, and reduce the volume of the reverse beep
 
 
+[![Watch the video](https://img.youtube.com/vi/AxEAFgkC4BY/maxresdefault.jpg)](https://www.youtube.com/shorts/AxEAFgkC4BY)
 
+[![Watch the video](https://img.youtube.com/vi/nm0Z0WLq8IQ/maxresdefault.jpg)](https://www.youtube.com/shorts/nm0Z0WLq8IQ)
