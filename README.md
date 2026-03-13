@@ -97,6 +97,7 @@ Some sounds are not used on this VESS, only the last three sounds are used (idle
 
 I will now be able to modify these different sounds by replacing them with the ASD (Active Sound Design) samples, which I find more pleasant, and reduce the volume of the reverse beep
 
+Now I'm using a programming probe I can change/update my custom firmware easily than unsolder/solder the flash or soldering wires
 
 [![Watch the video](https://img.youtube.com/vi/AxEAFgkC4BY/maxresdefault.jpg)](https://www.youtube.com/shorts/AxEAFgkC4BY)
 
