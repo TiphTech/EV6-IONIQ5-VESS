@@ -13,22 +13,20 @@ Buy a VESS system from an used EV6/IONIQ5 -> DONE
 
 inspect the electronic board, list the relevant components -> DONE
 
-finding UART signals to connect with RS485 module -> DONE
-
-extracting the raw SPI flash content -> DONE (flash dump by SPI)
+extracting the raw SPI flash content -> DONE (flash dump by SPI on the WINDBOND chip)
 
 exploiting flash content (audio) -> DONE
 
-editting audio with: lower backup sound (dong) and other sound like ASD inside sound of my Kia EV6 (Dynamic sound)
+editting audio with: a more discrete backup sound (dong) and other sound more sportly/loud (like Porsche Taycan / Audi Etron GT) -> DONE
 
-upload this modified content on the SPI Flash
+upload this modified content on the SPI Flash -> DONE
 
-Test and enjoy!
+Test and enjoy! -> DONE :)
 
 
-This research is not aimed at disabling VESS as you can do that very simply
-by just unplugging it. The work here is some reverse engineering based on the
-physical inspection only.
+This research is not for disabling VESS as you can do that very simply
+by just unplugging it / remove the fuse
+The work here is some reverse engineering
 
 
 
@@ -88,8 +86,9 @@ After unsoldering the SPI flash memory and extracting the data with a CH341A fla
 
 
 
-I can hear the different soundtracks emitted by the VESS with Audacity by going to File/Import/Raw Data ->
-
+First section is the firmware, contains the DSP parameters (Blackfin)
+I can hear the different soundtracks emitted by the VESS with Audacity by going to File/Import/Raw Data/Signed 16bits ->
+Some sounds are not used on this VESS, only the last three sounds are used (idle, on mouvement and backup dong)
 
 <img width="700" height="230" alt="Audacity" src="https://github.com/user-attachments/assets/b3710b9e-4010-4f11-8438-653b70597a88" />
 
